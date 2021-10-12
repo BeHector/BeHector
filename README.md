@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeHector
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning all the tools necessary to process data analysis.
+- 🌱 I’m currently learning all the tools necessary to do data analysis.
 - 💞️ I’m looking to collaborate on various projects that would involve data science application.
 
 <!---
